@@ -2,14 +2,22 @@
 
 Web publicada: https://serxdev.org
 
-Copia de la versión 12 publicada el 28 de octubre de 2026, preparada para revisión en la asignatura de Lenguaje de Marcas del ciclo DAM.
+La rama `main` conserva como referencia la copia de la versión 12 publicada el 28 de octubre de 2026, para revisión en Lenguaje de Marcas del ciclo DAM. Esta rama de propuesta añade contenido profesional y dos fichas de proyectos en desarrollo sin publicar la web.
+
+## Cambios propuestos (10 de noviembre de 2026)
+
+- Experiencia: etapa como jefe de producto en ADAGIO S.A. y Pioneer Forward Award 2010, seleccionado conjuntamente por Pioneer DJ y ADAGIO S.A.
+- Trayectoria musical: sustituir «más de 200 discos producidos» por «alrededor de 100 trabajos discográficos documentados», distinguiendo los roles profesionales.
+- VitaPlug: fichas de LAB2C y LABQ8 etiquetadas como «en desarrollo», sin enlazar código privado.
+- Imágenes: no se incorporan capturas de LAB2C/LABQ8 mientras no haya archivos reales aprobados para publicación.
+- **No desplegar a producción sin aprobación expresa.**
 
 ## Qué contiene
 
 - `index.html`: HTML, CSS dentro de `<style>` y JavaScript dentro de `<script>`, tal como están en la web publicada.
 - `assets/`: las imágenes originales utilizadas en el sitio.
 
-Se conserva la implementación publicada sin refactorizar, para que la revisión corresponda al trabajo que se está mostrando.
+Se mantienen la estructura HTML/CSS/JS y las interacciones originales; los ajustes en esta rama son de contenido y no alteran la versión de referencia de `main`.
 
 ## Cómo verla en local
 
@@ -44,7 +52,7 @@ Portfolio dirigido por Sergio Devece (SerxDev), desarrollado con asistencia de I
 - Commit del sitio de origen: `51d58376fec9057f042782bcb04fd7c8210d7c4b`.
 - SHA-256 de `index.html`: `119971d6a22fb38435ea94e7c8f22846d9b680d81907d70c14ca505aef517085`.
 
-Esta copia no se sincroniza automáticamente con futuras actualizaciones del sitio.
+La copia de referencia no se sincroniza automáticamente con futuras actualizaciones del sitio. Ninguna edición de esta rama implica desplegar una nueva versión en el dominio público.
 
 ## Autoría y uso
 
