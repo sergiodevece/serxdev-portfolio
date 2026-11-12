@@ -56,6 +56,7 @@ Este es el fragmento de metadatos generado para el calendario en producción.
 - Navegación, búsqueda y filtros probados en escritorio y a ancho móvil durante la revisión.
 - Compilación y validación de las 13 rutas del sitemap, URLs canónicas, redirección de rutas sin barra final y respuesta 404.
 - Comprobación del acceso a abonados y del bloqueo de la ruta de comunidad sin sesión.
+- Archivo HTML de Google desplegado en la raíz de la web y comprobado por HTTP 200 directo. El Worker entrega los bytes originales en la URL `.html` solicitada.
 - El seguimiento de impresiones, clics y posición media se realizará en Search Console tras verificar la propiedad y enviar el sitemap.
 
 ## Qué demuestra el proyecto
