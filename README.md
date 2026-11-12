@@ -61,3 +61,7 @@ La copia de referencia no se sincroniza automáticamente con futuras actualizaci
 ## Registro SEO
 
 El estado de SEO técnico y la conexión de Google Search Console para el dominio publicado se documentan en [docs/seo-2026-11.md](docs/seo-2026-11.md). Ese registro describe tareas realizadas en la web publicada y su estado en Google; no significa que los archivos desplegados estén sincronizados con esta copia del repositorio.
+
+## Proyectos de desarrollo web
+
+- [SEMPRE AMUNT](docs/sempre-amunt.md) reúne el caso de estudio del diario valencianista para Lenguajes de Marcas, su arquitectura, el SEO técnico y las comprobaciones de lanzamiento. [Ver la web](https://area-mestalla.lamunecadesal.chatgpt.site/).
