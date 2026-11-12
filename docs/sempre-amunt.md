@@ -57,7 +57,8 @@ Este es el fragmento de metadatos generado para el calendario en producción.
 - Compilación y validación de las 13 rutas del sitemap, URLs canónicas, redirección de rutas sin barra final y respuesta 404.
 - Comprobación del acceso a abonados y del bloqueo de la ruta de comunidad sin sesión.
 - Archivo HTML de Google desplegado en la raíz de la web y comprobado por HTTP 200 directo. El Worker entrega los bytes originales en la URL `.html` solicitada.
-- Propiedad de prefijo de URL verificada en Google Search Console el 12 de noviembre de 2026. El envío del sitemap queda por confirmar antes del seguimiento de impresiones, clics y posición media.
+- Propiedad de prefijo de URL verificada en Google Search Console el 12 de noviembre de 2026.
+- Sitemap enviado y leído por Google el 12 de noviembre de 2026. El informe de Sitemaps muestra el estado **Correcto**, con **13 páginas descubiertas** y **0 vídeos descubiertos**.
 
 ## Qué demuestra el proyecto
 
