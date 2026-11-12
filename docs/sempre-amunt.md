@@ -63,3 +63,11 @@ Este es el fragmento de metadatos generado para el calendario en producción.
 ## Qué demuestra el proyecto
 
 HTML semántico con `article`, `nav`, `time` y tablas, separación entre contenido y presentación, generación de XML y calendarios, JavaScript para interacciones y control de acceso desde el servidor. El proyecto reúne esos elementos en una publicación que se puede usar y revisar desde cualquier navegador.
+
+## Edición automática y hemeroteca
+
+La [hemeroteca](https://area-mestalla.lamunecadesal.chatgpt.site/hemeroteca/) reúne las piezas anteriores y las nuevas con filtros por texto, tipo y mes. Las URLs originales se conservan. Las nuevas publicaciones se incorporan al sitemap y al índice del buscador.
+
+La edición diaria usa un Worker y una base D1 para guardar piezas y datos deportivos. El servicio valida las fuentes y los bloques completos, deduplica por fuente y tipo de publicación y conserva la última versión de las secciones que no reciben datos. La edición del 12 de noviembre de 2026 incluyó calendario, resultados, clasificación y estadísticas, además de una noticia, una entrevista atribuida y un artículo de opinión. La prueba inmediata añadió una crónica del filial. Se verificaron los enlaces públicos, la persistencia tras un despliegue y el sitemap de **18 URLs**.
+
+La tarea está activa a las **09:00, hora de València**. La primera publicación se comprobó en producción y la prueba inmediata se ejecutó en la conversación mediante el acceso autenticado del servicio. La primera ejecución programada en segundo plano queda pendiente de comprobar.
