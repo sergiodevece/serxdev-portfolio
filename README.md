@@ -57,3 +57,7 @@ La copia de referencia no se sincroniza automáticamente con futuras actualizaci
 ## Autoría y uso
 
 © 2026 Sergio Devece · SerxDev. Repositorio público para consulta y revisión. No se añade una licencia de reutilización del código, fotografías o capturas.
+
+## Registro SEO
+
+El estado de SEO técnico y la conexión de Google Search Console para el dominio publicado se documentan en [docs/seo-2026-11.md](docs/seo-2026-11.md). Ese registro describe tareas realizadas en la web publicada y su estado en Google; no significa que los archivos desplegados estén sincronizados con esta copia del repositorio.
